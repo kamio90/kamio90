@@ -2,7 +2,7 @@
 
 ### Visitors count ![visitors](https://visitor-badge.glitch.me/badge?page_id=${kamio90}.${https://github.com/kamio90/kamio90})
 
-### Statistic
+### My Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamio90&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamio90" />
 
@@ -10,6 +10,14 @@
 
 ### This week I Spend My Time On:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kamio90" />
+
+### Current work on
+<p>Unity game we called for now Game</p>
+<a href="https://github.com/kamio90/Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=Game" />
+</a>
+
+  
 
 
 ### Repo that is public and make by my own with love
