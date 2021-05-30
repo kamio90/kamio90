@@ -19,6 +19,23 @@
 </a>
 
 ### Repo that is public and make by my own of my studies
+#### Unity
+<a href="https://github.com/kamio90/CoverShooterLab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=CoverShooterLab" />
+</a>
+<a href="https://github.com/kamio90/Lab5-Cinematic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=Lab5-Cinematic" />
+</a>
+<a href="https://github.com/kamio90/LevelDesign-Terrain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=LevelDesign-Terrain" />
+</a>
+<a href="https://github.com/kamio90/Lab4-Skrypty">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=Lab4-Skrypty" />
+</a>
+<a href="https://github.com/kamio90/silniki-lab-timeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=silniki-lab-timeline" />
+</a>
+
 #### C#
 <a href="https://github.com/kamio90/AnimalShelterDesctopApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=AnimalShelterDesctopApp" />
@@ -39,4 +56,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=cs-lab01-GradeBookApplication" />
 </a>
 
-
+#### Front-End
+<a href="https://github.com/kamio90/-studia-bezpieczenstwoSystemowInformatycznych-SzyfrVigenera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=-studia-bezpieczenstwoSystemowInformatycznych-SzyfrVigenera" />
+</a>
+<a href="https://github.com/kamio90/StatystykaOpisowa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=StatystykaOpisowa" />
+</a>
+<a href="https://github.com/kamio90/studia-bezpieczenstwoSystemowInformatycznych-SzyfrCezara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=studia-bezpieczenstwoSystemowInformatycznych-SzyfrCezara" />
+</a>
