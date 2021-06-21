@@ -41,7 +41,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kamio90" />
 
 ### Current work on
-<p>Unity game we called for now Game</p>
+<p>Unity game we called for now Void</p>
 <a href="https://github.com/kamio90/Void">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=Void" />
 </a>
