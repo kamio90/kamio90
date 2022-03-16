@@ -6,10 +6,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamio90&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamio90" />
 
 ### About Me
-<p>I am a full-stack developer, company owner and lecturer. I love when i learn new things soo that i like programming soo much. 👨‍💻</p>
+<p>I am a full-stack developer, company owner and lecturer.💻</p>
 
 ### Sport career
-<p>I also had a sporting career in horseback riding and show jumping. There, I participated in many international competitions and won several titles</p>
+<p>I also had a sport career in horse riding and show jumping. There, I participated in many international competitions and won several titles</p>
 <div align="center>
 <img align="center" height="180em" src="https://media-exp1.licdn.com/dms/image/C4D03AQHEHEsKGFBZdA/profile-displayphoto-shrink_800_800/0/1539616053356?e=1628121600&v=beta&t=SDJ4uxfIB7FZOxb5Gwa1aqPweCKQkLkiGsPT0DPutvY" />
 <img align="center" height="180em" src="https://media-exp1.licdn.com/dms/image/C4D03AQHEHEsKGFBZdA/profile-displayphoto-shrink_800_800/0/1539616053356?e=1628121600&v=beta&t=SDJ4uxfIB7FZOxb5Gwa1aqPweCKQkLkiGsPT0DPutvY" />
