@@ -57,6 +57,7 @@
   <li><a href="https://itroom.pl/" target="_blank">Brand Page</a></li>
   <li><a href="https://asroom.pl/" target="_blank">Company Page</a></li>
 </ul>
+<hr>
 
 ### My Stats
 
@@ -70,3 +71,4 @@
 <img align="center" height="180em" src="https://media-exp1.licdn.com/dms/image/C4D03AQHEHEsKGFBZdA/profile-displayphoto-shrink_800_800/0/1539616053356?e=1628121600&v=beta&t=SDJ4uxfIB7FZOxb5Gwa1aqPweCKQkLkiGsPT0DPutvY" />
 <img align="center" height="180em" src="https://scontent.fktw5-1.fna.fbcdn.net/v/t1.6435-9/39628888_1537680593002833_3831240411490287616_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=8fWxUFOAp0gAX_AslBs&_nc_ht=scontent.fktw5-1.fna&oh=343e1181a0e91b2ae8d20be668c3dde1&oe=60D90EE0" />
 </div>
+<hr>
