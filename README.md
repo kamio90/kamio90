@@ -49,6 +49,15 @@
 </ul>
 <hr>
 
+### Social Media
+<ul>
+<li><a href="https://www.linkedin.com/in/kamilmusia%C5%82/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://www.youtube.com/channel/UCkFc8v77E0mK1G0erkgCdxQ" target="_blank">Youtube</a></li>
+  <li><a href="https://www.instagram.com/kamio90/" target="_blank">Instagram</a></li>
+  <li><a href="https://itroom.pl/" target="_blank">Brand Page</a></li>
+  <li><a href="https://asroom.pl/" target="_blank">Firm Page</a></li>
+</ul>
+
 ### My Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamio90&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamio90" />
