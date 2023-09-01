@@ -1,7 +1,6 @@
 Hi 👋 My name is Kamil Musiał
 =============================
-
-Full Stack Developer
+Senior Software Enginieer
 --------------------
 
 * 🌍  I'm based in Polska
@@ -10,10 +9,7 @@ Full Stack Developer
 * 🤝  I'm open to collaborating on open source projects
 
 ### I'm currently working on 
-* Creating an application related to the automation of accounting. [Accounting Application](http://github.com/kamio90/accounting-application)
-* Creating an indie sci-fi adventure game in a unity engine based on HDRP called PRI0N3 
-* Creating training materials for beginners to Junior Front-End Developer 
-* Creating engineering work on creating the fifth dimension in games 
+* AI stuff connected with brain waves
 
 ### ACHIVEMENTS 
 * 1st place in a competition organized by Comarch in 2019. 
@@ -57,9 +53,3 @@ src="https://img.shields.io/twitch/status/kamio90?logo=twitchsx&style=for-the-ba
 <a href="http://www.github.com/kamio90"><img src="https://github-readme-stats.vercel.app/api?username=kamio90&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="kamio90's GitHub stats" /></a>
 
 <a href="http://www.github.com/kamio90"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kamio90&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/kamio90"><img src="https://activity-graph.herokuapp.com/graph?username=kamio90&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/kamio90/accounting-application" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kamio90&repo=accounting-application&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
