@@ -1,55 +1,220 @@
-Hi 👋 My name is Kamil Musiał
-=============================
-Senior Software Enginieer
---------------------
+# Hi 👋 My name is Kamil Musiał
+## Senior Software Engineer
 
-* 🌍  I'm based in Polska
-* ✉️  You can contact me at [kmusial40@gmail.com](mailto:kmusial40@gmail.com)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on open source projects
+🌍 I'm based in Polska  
+✉️ You can contact me at [kmusial40@gmail.com](mailto:kmusial40@gmail.com)  
+🧠 I'm learning Machine Learning  
+🤝 I'm open to collaborating on open source projects  
 
-### I'm currently working on 
-* AI stuff connected with brain waves
+### I'm currently working on
+AI stuff connected with brain waves
 
-### ACHIVEMENTS 
-* 1st place in a competition organized by Comarch in 2019. 
-* Creating an application for people suffering from diabetes 
-* 2nd place in the audience award organized by Krakowski Park Technological in 2019 
-* 2nd place in the competition "Projekt na Szóstkę" organized by the Technical School of Communications in Krakow in 2019 
-* Distinction in the "Webmaster is me" competition organized by the Technical School in Dobczyce in 2019 
-* Participation in the Digital Olympics organized by the Polish Ministry of Education in 2019 
-* Distinction during the sheepyourhack 2 hackathon organized in 2020. Creating an application that was helping people with hearing disability in easier communication.
-* 3rd place in the hackathon organized by the Asseco Poland S.A. 
-* Creating an application that enabled a banking solution and improvement of the international money transfer system. 
-* Participation during the sheepyourhack 3 hackathon organized in 2021. Creating an application to help reduce air pollution
+### WORK EXPERIENCE
 
-<a href="https://www.github.com/kamio90" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kamio90?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.twitch.tv/kamio90" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/kamio90?logo=twitchsx&style=for-the-badge&color=f97316&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+**Senior Software Engineer**  
+Avenga sp.zoo, Kraków  
+October 2022 – Present
 
-### Skills
+I am responsible for ensuring the quality of code through the implementation of thorough testing and code review practices. Utilizing my expertise in Node.js and React.js, I actively contribute to the development of new features and functionalities for the company. Additionally, I have extensive experience working with AWS, utilizing a variety of its services to optimize and improve the performance and scalability of our solutions.
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
+**Backend Developer**  
+Euvic sp.zoo, Kraków  
+May 2022 – October 2022
 
+Working for an outside company in the aircraft/aviation industry and developing backend three APIs. Rebuilding the entire API system to REST API, developing and fixing bugs in the second API, creating an application for the third API.
 
-### Socials
+**Full Stack Developer**  
+Asroom sp.zoo, Kraków  
+August 2018 – May 2022
 
-<p align="left"> <a href="https://discord.com/users/kamio90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kamio90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kamilmusiał/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/kamio90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+Building an in-house tool and the itroom brand. Developing custom websites, web stores, and web applications. Hiring and managing an IT team. Setting budgets and allocating tasks for a given sprint.
 
-### Badges
+**Front-end Developer**  
+Financeroom, Myślenice  
+August 2015 – August 2018
 
-<b>My GitHub Stats</b>
+Creating simple websites, developing web applications, and starting designing backend solutions.
 
-<a href="http://www.github.com/kamio90"><img src="https://github-readme-stats.vercel.app/api?username=kamio90&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="kamio90's GitHub stats" /></a>
+### EDUCATION
 
-<a href="http://www.github.com/kamio90"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kamio90&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Computer Science And Econometrics, Kraków**  
+Bachelor of Engineering  
+October 2019 – 2023 (not finish)
+
+At the university where I am presently enrolled, programming and mathematics are given heavy emphasis. As part of the teaching module, I studied vectors, matrices, integrals, and other topics related to the development of computer games. Currently, I am learning and using C# extensively in my projects. Furthermore, my engineering thesis deals with creating the fifth dimension in computer games.
+
+**IT Technician, Mathematics And Computer Science, Myślenicce**  
+IT Technician  
+September 2015 – Jun 2019
+
+The technical institute period provided me with many opportunities to learn about the IT world, such as the construction of a computer or the workings of the Internet. Aside from that, I obtained three internationally recognized professional qualifications: E12 - Installation and operation of personal computers and peripheral devices, E13 - Designing local computer networks and network administration, E14 - Creating internet applications and databases and database administration. These three qualifications enabled me to achieve the title of IT Technician.
+
+### COMMERCIAL PROJECTS
+
+**2022 - Application connected with bank pipe based on blockchain**
+- React, NodeJS, Typescript, Python
+
+**2020 - Application connected with machines registry**
+- React, NodeJS, C++
+
+**2020 - Application connected with helping tourist to find a vacation**
+- React, NodeJS, Typescript
+
+**2019 - Teaching programming**
+- Javascript, C++
+
+**2018 - Online Selling bakery**
+- React, NodeJS
+
+**2017 - Mobile app for Pizzeria**
+- Xamarin C#
+
+### COMMERCIAL PROJECTS WITH COMPANIES
+
+**2021 - Application for selling furniture**
+- NodeJS, React, Unity
+
+**2021 - Application connected with electricity power**
+- NodeJS, React, C++
+
+**2021 - Application connected with incompony moves**
+- NodeJS, React, C++
+
+**2020 - Bug Fixes for hotel booking system**
+- NodeJS
+
+**2019 - Application for finding job opportunities**
+- React, NodeJS
+
+**2018 - Website for European Union Founding**
+- React
+
+**2018 - Website for Financial Stuff**
+- React
+
+**2018 - Application for booking trips for woman**
+- React, Wordpress
+
+### COMPETITION PROJECTS OR HACKATHONS
+
+**2022 - ISS LOOKOUT**
+- Project developed on hackathon "NASA Space Apps Challenge 2022."
+
+**2021 - Bank Pipeline – 3rd place**
+- An application that uses blockchain to transfer money abroad instantaneously.
+
+**2021 - Application to reduce air pollution – Participation**
+- Designed for any smart city, the application set up a map of a given city for tourists with all the places of interest.
+
+**2019 - Website – Distinction**
+- Competition with undefined purpose. The title of this contest was "Webmaster is me."
+
+**2019 - Digital Olympics– Participation**
+- I participated in the digital Olympics organized by the Ministry of Education in Poland.
+
+**2019 - Application for people with disability– Distinction**
+- An application intended to help people with hearing or speech difficulties in times of pandemics.
+
+**2017 - Mobile App for diabetes – 1st place**
+- An app for diabetics to enter required information and receive suggestions.
+
+**2017 - Mobile App for diabetes – 2nd place**
+- Audience award for the diabetic app.
+
+**2017 - Mobile App for notifications between family – 2nd place**
+- An App linked to the diabetic app.
+
+### UNIVERSITY PROJECTS
+
+**2022 - Sci Fi game based on fifth dimension**
+- Unity, C#
+
+### PRIVATE PROJECTS
+
+**2022 - Game Engine**
+- Typescript
+
+**2019 - Application for finding a good doctor**
+- React, NodeJS
+
+### CERTIFICATES
+
+**2020- 98-364:MTA: Database Fundamentals – Microsoft**
+
+**2020- 98-375:MTA: HTML5 Application Development Fundamentals  – Microsoft**
+
+**2020- 98-361:MTA: Software Development Fundamentals  – Microsoft**
+
+**2020- 98-367:MTA: Security Fundamentals – Microsoft**
+
+**2017- Front-End Developer – Academy 108**
+
+### CONFERENCES
+
+**2022- Code Europe – Kraków**
+
+**2022- Tech OpenX Meetup – Kraków**
+
+**2022- RevDev  – Kraków**
+
+### PROGRAMMING LANGUAGES
+
+- Javascript
+- Typescript
+- C#
+
+### FRAMEWORKS
+
+- NestJS
+- Express
+- .NET
+- Unity
+
+### DATABASES
+
+- MariaDB
+- MongoDB
+
+### SOURCE CONTROLS
+
+- Github
+
+### TASK MANAGEMENT
+
+- Clickup
+- Asana
+- Trello
+
+### DEVELOPER IDE
+
+- Jetbrains Webstorm
+- Jetbrains Rider
+
+### DEVELOPER TOOLS
+
+- Github Desktop
+- Postman
+
+### CLOUD SOLUTIONS
+
+- Heroku
+- Azure
+
+### OPERATING SYSTEMS
+
+- Windows 11
+- Windows 10
+- Ubuntu
+- MacOS Silicon Based
+
+### LANGUAGES
+
+- Polish
+- English
+- German
+
+### HOBBIES
+
+- Programming
+- Game Development
+- Blockchain
