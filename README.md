@@ -4,7 +4,7 @@
 
 **Tech Lead · AI Engineer · Strategic Consultant (MBA)**
 
-*Building AI systems that build AI systems.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+build+AI+systems.;9+years+from+WebGL+to+multi-agent+AI.;Live+products.+Real+users.+Real+money.)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/kmusial40%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kmusial40@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamio90/)
@@ -82,6 +82,23 @@ Infrastructure AWS · Azure · Docker · Kubernetes · nginx
 Real-time      LiveKit · WebSockets · WebGL (custom renderer)
 Domain         LiDAR/Point Cloud · BIM/IFC · GDS (flight booking) · EUROCONTROL · Open Banking
 ```
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kamio90&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamio90&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamio90&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
