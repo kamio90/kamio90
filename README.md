@@ -1,220 +1,108 @@
-# Hi 👋 My name is Kamil Musiał
-## Senior Software Engineer
+<div align="center">
 
-🌍 I'm based in Polska  
-✉️ You can contact me at [kmusial40@gmail.com](mailto:kmusial40@gmail.com)  
-🧠 I'm learning Machine Learning  
-🤝 I'm open to collaborating on open source projects  
+# Kamil Musiał
 
-### I'm currently working on
-AI stuff connected with brain waves
+### Tech Lead · AI Engineer · Strategic Consultant
 
-### WORK EXPERIENCE
+*Building AI systems that build AI systems.*
 
-**Senior Software Engineer**  
-Avenga sp.zoo, Kraków  
-October 2022 – Present
+[![Email](https://img.shields.io/badge/kmusial40%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kmusial40@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-musial)
 
-I am responsible for ensuring the quality of code through the implementation of thorough testing and code review practices. Utilizing my expertise in Node.js and React.js, I actively contribute to the development of new features and functionalities for the company. Additionally, I have extensive experience working with AWS, utilizing a variety of its services to optimize and improve the performance and scalability of our solutions.
+</div>
 
-**Backend Developer**  
-Euvic sp.zoo, Kraków  
-May 2022 – October 2022
+---
 
-Working for an outside company in the aircraft/aviation industry and developing backend three APIs. Rebuilding the entire API system to REST API, developing and fixing bugs in the second API, creating an application for the third API.
+9 years. Started writing WebGL game engines from scratch. Now I build multi-agent AI orchestration systems that run in production for US companies, build AI avatar concierges for private banking, and develop platforms that process 400,000 LiDAR points per second. I do this while holding an MBA and winning hackathons across Europe.
 
-**Full Stack Developer**  
-Asroom sp.zoo, Kraków  
-August 2018 – May 2022
+I don't build prototypes. I build things that scale.
 
-Building an in-house tool and the itroom brand. Developing custom websites, web stores, and web applications. Hiring and managing an IT team. Setting budgets and allocating tasks for a given sprint.
+---
 
-**Front-end Developer**  
-Financeroom, Myślenice  
-August 2015 – August 2018
+## What I'm building right now
 
-Creating simple websites, developing web applications, and starting designing backend solutions.
+**[Coursedog](https://coursedog.com)** — Senior AI Engineer. Multi-agent orchestration with LangGraph. Building autonomous agents that handle academic workflows for universities across the US. Migrating legacy architecture, designing new systems from scratch.
 
-### EDUCATION
+**[KMES Autopilot](https://github.com/kamio90/KMES-Autopilot)** — An Electron app that autonomously generates full applications using Claude Code. An AI system that writes software. Yes, I built an AI engineer.
 
-**Computer Science And Econometrics, Kraków**  
-Bachelor of Engineering  
-October 2019 – 2023 (not finish)
+**[APP BID AI](https://github.com/kamio90/APP-Projekt-S.A.)** — AI agent for tender/bid processing. Deployed on Azure with Ollama + ChromaDB + FastAPI + Next.js. Real production system.
 
-At the university where I am presently enrolled, programming and mathematics are given heavy emphasis. As part of the teaching module, I studied vectors, matrices, integrals, and other topics related to the development of computer games. Currently, I am learning and using C# extensively in my projects. Furthermore, my engineering thesis deals with creating the fifth dimension in computer games.
+**[Grant Radar](https://github.com/kamio90/dotradar)** — Subscription SaaS that scrapes and processes EU/OZE grant data for Polish municipalities. Full stack: Node.js scraper → Ollama local AI → Next.js dashboard → Przelewy24 payments.
 
-**IT Technician, Mathematics And Computer Science, Myślenicce**  
-IT Technician  
-September 2015 – Jun 2019
+**[EnergoID](https://github.com/kamio90/EnergoID)** — First CSIRE-native Open Banking platform for energy in Poland.
 
-The technical institute period provided me with many opportunities to learn about the IT world, such as the construction of a computer or the workings of the Internet. Aside from that, I obtained three internationally recognized professional qualifications: E12 - Installation and operation of personal computers and peripheral devices, E13 - Designing local computer networks and network administration, E14 - Creating internet applications and databases and database administration. These three qualifications enabled me to achieve the title of IT Technician.
+---
 
-### COMMERCIAL PROJECTS
+## Things I've built that I'm proud of
 
-**2022 - Application connected with bank pipe based on blockchain**
-- React, NodeJS, Typescript, Python
+**Private Banking AI Concierge** — Real-time AI avatar system for private banking clients. LiveKit + Anam AI + TypeScript. The avatar speaks, listens, reacts, and triggers contextual overlays on screen. POC for a major Polish bank. Built in weeks.
 
-**2020 - Application connected with machines registry**
-- React, NodeJS, C++
+**CHMURA+** — AI platform for automatic LiDAR point cloud classification for CPK (Central Communication Port). 40+ infrastructure classes. 400,000 points/second. Random Forest + PointNet neural network. BIM integration with IFC export. Built at HackNation 2025.
 
-**2020 - Application connected with helping tourist to find a vacation**
-- React, NodeJS, Typescript
+**Custom 3D Game Engine** — Engineering thesis. Built a game engine from scratch: WebGL rendering pipeline, Entity-Component-System architecture, physics engine, shader programming. In TypeScript. Because I wanted to understand what's underneath.
 
-**2019 - Teaching programming**
-- Javascript, C++
+**Airport Operations Systems** — Mission-critical backend for SITA's ADCS airport system. EUROCONTROL integration, Type B messaging, ADIS protocol. Rebuilt the entire API system and eliminated 90% of critical bugs. Airlines depend on this.
 
-**2018 - Online Selling bakery**
-- React, NodeJS
+**Circle Edge** — 1st place at HackYeah — Europe's largest hackathon (1,000+ participants). Built in 24 hours for the Polish Development Fund. Data resilience platform for local communities.
 
-**2017 - Mobile app for Pizzeria**
-- Xamarin C#
+---
 
-### COMMERCIAL PROJECTS WITH COMPANIES
+## Hackathon record
 
-**2021 - Application for selling furniture**
-- NodeJS, React, Unity
+| Year | Event | Result | Project |
+|------|-------|--------|---------|
+| 2025 | HackNation | 🥈 2nd Place | CHMURA+ — LiDAR AI for CPK |
+| 2024 | HackYeah | 🏆 1st Place | Circle Edge — Data Resilience |
+| 2023 | NASA Space Apps | Commended | ISS Lookout — Space Tracker |
+| 2023 | HackYeah | Top finalist | Circle Edge API |
+| 2022 | Blockchain Hackathon | 🏆 1st Place | Bank Pipeline — cross-border payments |
+| 2022 | NASA Space Apps | Commended | ISS Orbital Tracker |
+| 2021 | Asseco Poland | 🥉 3rd Place | Bank Pipeline v1 |
+| 2021 | Comarch | 🏆 1st Place | Mobile App |
+| 2021 | Kraków Technology Park | 🥈 2nd Place | — |
 
-**2021 - Application connected with electricity power**
-- NodeJS, React, C++
+---
 
-**2021 - Application connected with incompony moves**
-- NodeJS, React, C++
+## Stack
 
-**2020 - Bug Fixes for hotel booking system**
-- NodeJS
+```
+Languages      TypeScript · Python · Swift · C# · JavaScript
+AI/ML          LangGraph · Multi-agent · Ollama · Claude API · OpenAI · ChromaDB
+Backend        Node.js · FastAPI · Express · Prisma · Drizzle ORM
+Frontend       Next.js · React · React Native / Expo
+Databases      PostgreSQL · MongoDB · Redis · ChromaDB · SQLite
+Infrastructure AWS · Azure · Docker · Kubernetes · nginx
+Real-time      LiveKit · WebSockets · WebGL
+Other          LiDAR/Point Cloud · BIM/IFC · GDS integrations · EUROCONTROL
+```
 
-**2019 - Application for finding job opportunities**
-- React, NodeJS
+---
 
-**2018 - Website for European Union Founding**
-- React
+## Career in one line per role
 
-**2018 - Website for Financial Stuff**
-- React
+```
+2018–2022  Full Stack + Team Lead    Asroom/ITroom    — Built the company from scratch. Led team of 10+.
+2022       Backend Developer         Euvic/A2B        — Mission-critical airport ops. SITA. EUROCONTROL.
+2022–2023  Senior SE + Tech Lead     Avero/Sabre      — GDS integrations. Real-time flight booking APIs.
+2021–2022  Tech Lead                 ALO2 Nord        — Platform for millions of European customers.
+2022–2024  Senior Software Engineer  Avenga           — Payment systems. European markets.
+2022–now   Senior AI Engineer        Coursedog        — Multi-agent systems. Academic AI. LangGraph.
+```
 
-**2018 - Application for booking trips for woman**
-- React, Wordpress
+---
 
-### COMPETITION PROJECTS OR HACKATHONS
+## Education
 
-**2022 - ISS LOOKOUT**
-- Project developed on hackathon "NASA Space Apps Challenge 2022."
+**MBA — Strategic Management**
+Warsaw Business School · 2024–2025
 
-**2021 - Bank Pipeline – 3rd place**
-- An application that uses blockchain to transfer money abroad instantaneously.
+**Computer Science & Informatics**
+WSIiZ Rzeszów University
 
-**2021 - Application to reduce air pollution – Participation**
-- Designed for any smart city, the application set up a map of a given city for tourists with all the places of interest.
+---
 
-**2019 - Website – Distinction**
-- Competition with undefined purpose. The title of this contest was "Webmaster is me."
+<div align="center">
 
-**2019 - Digital Olympics– Participation**
-- I participated in the digital Olympics organized by the Ministry of Education in Poland.
+*Open to high-impact remote roles. Especially if the problem is hard.*
 
-**2019 - Application for people with disability– Distinction**
-- An application intended to help people with hearing or speech difficulties in times of pandemics.
-
-**2017 - Mobile App for diabetes – 1st place**
-- An app for diabetics to enter required information and receive suggestions.
-
-**2017 - Mobile App for diabetes – 2nd place**
-- Audience award for the diabetic app.
-
-**2017 - Mobile App for notifications between family – 2nd place**
-- An App linked to the diabetic app.
-
-### UNIVERSITY PROJECTS
-
-**2022 - Sci Fi game based on fifth dimension**
-- Unity, C#
-
-### PRIVATE PROJECTS
-
-**2022 - Game Engine**
-- Typescript
-
-**2019 - Application for finding a good doctor**
-- React, NodeJS
-
-### CERTIFICATES
-
-**2020- 98-364:MTA: Database Fundamentals – Microsoft**
-
-**2020- 98-375:MTA: HTML5 Application Development Fundamentals  – Microsoft**
-
-**2020- 98-361:MTA: Software Development Fundamentals  – Microsoft**
-
-**2020- 98-367:MTA: Security Fundamentals – Microsoft**
-
-**2017- Front-End Developer – Academy 108**
-
-### CONFERENCES
-
-**2022- Code Europe – Kraków**
-
-**2022- Tech OpenX Meetup – Kraków**
-
-**2022- RevDev  – Kraków**
-
-### PROGRAMMING LANGUAGES
-
-- Javascript
-- Typescript
-- C#
-
-### FRAMEWORKS
-
-- NestJS
-- Express
-- .NET
-- Unity
-
-### DATABASES
-
-- MariaDB
-- MongoDB
-
-### SOURCE CONTROLS
-
-- Github
-
-### TASK MANAGEMENT
-
-- Clickup
-- Asana
-- Trello
-
-### DEVELOPER IDE
-
-- Jetbrains Webstorm
-- Jetbrains Rider
-
-### DEVELOPER TOOLS
-
-- Github Desktop
-- Postman
-
-### CLOUD SOLUTIONS
-
-- Heroku
-- Azure
-
-### OPERATING SYSTEMS
-
-- Windows 11
-- Windows 10
-- Ubuntu
-- MacOS Silicon Based
-
-### LANGUAGES
-
-- Polish
-- English
-- German
-
-### HOBBIES
-
-- Programming
-- Game Development
-- Blockchain
+</div>
