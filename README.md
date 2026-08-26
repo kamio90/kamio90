@@ -102,7 +102,7 @@ Domains          BIM/IFC · LiDAR & point clouds · aviation (EUROCONTROL, IATA)
 
 ```
 2026 – now     Head of AI & Digital Innovation    APP-PROJEKT S.A.       AI-native platform. ~100 services.
-2024 – 2026    Senior Software Engineer, AI       Coursedog (US EdTech)  Agentic AI. LangGraph. RAG on pgvector.
+2024 – 2026    Senior Software Engineer, AI       Coursedog (US EdTech)  Agentic AI. LangGraph. RAG.
 2025           Senior Software Engineer           Devire                 Digital payments and checkout.
 2023 – 2025    Senior Technology Consultant       ALDI Nord IT Services  Retail platform, European markets.
 2022 – 2023    Senior Software Engineer           Avenga → ADB SAFEGATE  Airport ops. CORTEX. EUROCONTROL, IATA.
@@ -117,7 +117,7 @@ Domains          BIM/IFC · LiDAR & point clouds · aviation (EUROCONTROL, IATA)
 
 **MBA, Strategic Management & Leadership** — Warsaw Business School, 2025
 
-**BEng, Computer Science & Econometrics** — Krakow University of Economics, 2019–2023
+**BEng, Computer Science & Econometrics** — Krakow University of Economics, 2019–2023  
 Thesis: *Creating the fifth dimension in computer games.*
 
 ---
