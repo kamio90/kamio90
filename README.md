@@ -1,71 +1,83 @@
 <div align="center">
 
-# Kamil Musiał
+# Kamil Musiał-Czerski
 
-**Tech Lead · AI Engineer · Strategic Consultant (MBA)**
+### Head of Artificial Intelligence & Digital Innovation
 
-*Building AI systems that build AI systems.*
+**APP-PROJEKT S.A.** — Warsaw · Poznań · Wrocław
 
-[![Email](https://img.shields.io/badge/kmusial40%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kmusial40@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamio90/)
+[![Email](https://img.shields.io/badge/k.musial@app--projekt.pl-C8102E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:k.musial@app-projekt.pl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamio90/)
+[![Grant Radar](https://img.shields.io/badge/dotradar.pl-00C16A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dotradar.pl)
+
+**I don't build prototypes. I build the systems a company actually runs on.**
 
 </div>
 
 ---
 
-9 years. Started writing WebGL game engines from scratch. Evolved through mission-critical airport systems, payment infrastructure across European markets, and multi-agent AI orchestration for US SaaS companies. Today I build AI products that are live, used, and making money.
+## Now
 
-I don't build prototypes. I build things that scale.
+I lead AI and digital innovation at **APP-PROJEKT S.A.** — an engineering and construction consultancy operating from three Polish cities as part of the **RLB Euro Alliance**.
+
+My team builds AI-native software for how construction actually works: tendering and bid response, design coordination, site operations, compliance and reporting — the investment lifecycle end to end, in one platform instead of twenty disconnected tools.
+
+<div align="center">
+
+![Services](https://img.shields.io/badge/~100-services_in_the_platform-C8102E?style=for-the-badge&labelColor=1a1a1a)
+![Commits](https://img.shields.io/badge/2,200+-commits_in_10_weeks-C8102E?style=for-the-badge&labelColor=1a1a1a)
+![Branches](https://img.shields.io/badge/738-branches_in_flight-C8102E?style=for-the-badge&labelColor=1a1a1a)
+![Contributions](https://img.shields.io/badge/1,900+-contributions_in_2026-C8102E?style=for-the-badge&labelColor=1a1a1a)
+
+</div>
+
+Those numbers aren't a typing speed record. They're **orchestration**. I run fleets of AI coding agents in parallel git worktrees — each on its own feature branch, each reviewed and merged by a pipeline I built. One engineer, a team's throughput.
+
+That's the thesis I keep proving: *AI systems that build AI systems.*
 
 ---
 
-## Live Products
+## Live products
 
-**[dotradar.pl](https://dotradar.pl)** — Grant Radar
-AI-powered SaaS that scans 38+ Polish government sources every night, scores grant relevance with AI (0–100), and alerts energy companies and municipalities when new OZE/EU funding drops. 16 regions covered. Subscription tiers up to 599 PLN/month. Solo built, production live.
+### [dotradar.pl](https://dotradar.pl) — Grant Radar
+AI SaaS that scans **38+ Polish government sources** nightly, scores every grant for relevance (0–100), and alerts energy companies and municipalities the moment new renewable-energy or EU funding drops. 16 regions covered, subscription tiers to 599 PLN/month. Solo built. In production, with paying users.
 
-**[app-projekt.pl](https://www.app-projekt.pl)** — APP BID AI Agent
-AI agent for tender and bid processing built for APP-Projekt S.A. — a construction and real estate firm operating in the RLB Euro Alliance. Deployed on Azure: Ollama + ChromaDB + FastAPI + Next.js. Processes incoming project briefs, extracts requirements, drafts responses. Real production system serving a real company.
+### [app-projekt.pl](https://www.app-projekt.pl) — APP BID AI Agent
+An AI agent that reads incoming project briefs, extracts requirements and drafts tender responses. Azure-deployed: Ollama + ChromaDB + FastAPI + Next.js. Real production system, real company, real deadlines.
 
-**KMES Autopilot** — *in development*
-An Electron desktop app that autonomously generates full applications using Claude Code. Essentially: an AI engineer. Give it a spec, it builds the software. The goal is full autonomous development cycles without human intervention.
+### KMES Autopilot — *in development*
+A desktop app that autonomously generates full applications through Claude Code. Give it a spec, it ships the software. Target: complete development cycles with no human in the loop.
 
 ---
 
-## Things I've built that matter
+## Selected work
 
-**Private Banking AI Concierge**
-Real-time AI avatar for private banking clients. The avatar speaks Polish, listens, understands context, and triggers dynamic content overlays mid-conversation — maps, flight offers, product cards, pricing tables. Built with LiveKit + Anam AI + TypeScript. POC delivered for a major Polish bank in weeks.
+**Private Banking AI Concierge** — Real-time AI avatar for a major Polish bank. Speaks and understands Polish, tracks conversational context, and triggers dynamic overlays mid-sentence: maps, flight offers, product cards, pricing. LiveKit + Anam AI + TypeScript. POC delivered in weeks.
 
-**CHMURA+** — LiDAR Classification for CPK
-AI platform for automatic point cloud classification for Poland's Central Communication Port infrastructure project. 40+ classes: railway, road, buildings, BIM objects. 400,000 points/second. Random Forest + PointNet. Full IFC/BIM export. Built at HackNation 2025 — 2nd place nationally.
+**CHMURA+ — LiDAR classification for CPK** — Automatic point-cloud classification for Poland's Central Communication Port. 40+ classes across railway, road, buildings and BIM objects at **400,000 points/second**. Random Forest + PointNet, full IFC/BIM export. 🥈 2nd nationally, HackNation 2025.
 
-**EnergoID**
-Poland's first CSIRE-native Open Banking platform for the energy sector. Full stack: Next.js frontend, multi-service backend, Supabase, real energy data integration.
+**EnergoID** — Poland's first CSIRE-native Open Banking platform for the energy sector. Next.js, multi-service backend, Supabase, live energy-market data.
 
-**Custom WebGL Game Engine** — Engineering Thesis
-Built from scratch in TypeScript: custom WebGL rendering pipeline, Entity-Component-System architecture, physics engine, shader system. Because understanding what's underneath matters.
+**Airport operations backend** — Mission-critical systems for SITA's ADCS platform. EUROCONTROL integration, Type B messaging, ADIS protocol parsing. Rebuilt the API layer: **90% of critical bugs eliminated, 3× faster responses.** Airlines flew because it held.
 
-**Airport Operations Backend**
-Mission-critical systems for SITA's ADCS airport platform. EUROCONTROL integration, Type B messaging, ADIS protocol parsing. Rebuilt the entire API system. Eliminated 90% of critical bugs. Improved response times 3×. Airlines flew because this worked.
-
-**Circle Edge** — 1st Place HackYeah
-Europe's largest hackathon, 1,000+ participants, 24 hours. Data resilience platform for local community challenges. Built for the Polish Development Fund.
+**Custom WebGL game engine** — Built from scratch in TypeScript for my engineering thesis: rendering pipeline, Entity-Component-System architecture, physics, shader system. Because understanding what's underneath matters.
 
 ---
 
 ## Hackathons
 
-| | Event | Result | Project |
-|---|---|---|---|
-| 2025 | HackNation — National | 🥈 2nd | CHMURA+ · LiDAR AI for CPK |
-| 2024 | HackYeah — Europe's largest | 🏆 1st | Circle Edge · Data Resilience |
-| 2023 | NASA Space Apps | Commended | ISS Lookout · Orbital Tracker |
+**3 first places. 9 podiums.**
+
+| Year | Event | Result | Project |
+|:--|:--|:--|:--|
+| 2025 | HackNation — national | 🥈 2nd | CHMURA+ · LiDAR/BIM classification for CPK |
+| 2024 | HackYeah — Europe's largest, 1,000+ competitors | 🏆 **1st** | Circle Edge · data resilience for the Polish Development Fund |
+| 2023 | NASA Space Apps | Commended | ISS Lookout · orbital tracker |
 | 2023 | HackYeah | Finalist | Circle Edge API |
-| 2022 | Blockchain Hackathon | 🏆 1st | Bank Pipeline · cross-border payments |
+| 2022 | Blockchain Hackathon | 🏆 **1st** | Bank Pipeline · cross-border payments |
 | 2022 | NASA Space Apps | Commended | ISS Space Tracker |
 | 2021 | Asseco Poland | 🥉 3rd | Bank Pipeline v1 |
-| 2021 | Comarch | 🏆 1st | Mobile App |
+| 2021 | Comarch | 🏆 **1st** | Mobile app |
 | 2021 | Kraków Technology Park | 🥈 2nd | — |
 
 ---
@@ -73,55 +85,42 @@ Europe's largest hackathon, 1,000+ participants, 24 hours. Data resilience platf
 ## Stack
 
 ```
-Languages      TypeScript · Python · Swift · C# · JavaScript
-AI/ML          LangGraph · Multi-agent orchestration · Ollama · Claude API · OpenAI · ChromaDB · PointNet
-Backend        Node.js · FastAPI · Express · Drizzle ORM · Prisma
-Frontend       Next.js · React · React Native / Expo
-Databases      PostgreSQL · MongoDB · Redis · ChromaDB · Supabase
-Infrastructure AWS · Azure · Docker · Kubernetes · nginx
-Real-time      LiveKit · WebSockets · WebGL (custom renderer)
-Domain         LiDAR/Point Cloud · BIM/IFC · GDS (flight booking) · EUROCONTROL · Open Banking
+Languages        TypeScript · Python · Swift · C# · JavaScript
+AI / ML          Claude API · LangGraph · multi-agent orchestration · Ollama
+                 ChromaDB · OpenAI · PointNet · RAG pipelines
+Backend          Node.js · FastAPI · Express · Drizzle ORM · Prisma
+Frontend         Next.js · React · React Native / Expo
+Data             PostgreSQL · MongoDB · Redis · ChromaDB · Supabase
+Infrastructure   Azure · AWS · Docker · Kubernetes · nginx
+Real-time        LiveKit · WebSockets · WebGL (custom renderer)
+Domains          BIM/IFC · LiDAR & point clouds · GDS flight booking
+                 EUROCONTROL · Open Banking · construction tech
 ```
-
----
-
-## Stats
-
-<div align="center">
-
-![](https://img.shields.io/badge/Contributions%202026-1%2C900%2B-brightgreen?style=flat-square)
-![](https://img.shields.io/badge/Hackathon%20wins-3x%20🏆-gold?style=flat-square)
-![](https://img.shields.io/badge/Years%20coding-9-blue?style=flat-square)
-![](https://img.shields.io/badge/Live%20products-2-success?style=flat-square)
-
-</div>
 
 ---
 
 ## Career
 
 ```
-2018–2022  Full Stack Dev + Team Lead    Asroom / ITroom      Built the company. Led team of 10+.
-2022       Backend Developer             Euvic / A2B          Airport ops. SITA. EUROCONTROL.
-2022–2023  Senior SE + Tech Lead         Avero / Sabre        GDS. Real-time flight APIs. Strict SLAs.
-2021–2022  Tech Lead                     ALO2 Nord            Platform serving millions of EU customers.
-2022–2024  Senior Software Engineer      Avenga               Payment systems. European markets.
-2022–2025  Senior AI Engineer            Coursedog (US)       Multi-agent systems. LangGraph. Academic AI.
-2025–now   AI Engineer / Tech Lead       Independent          AI products. Consulting. Building.
+2026 – now    Head of AI & Digital Innovation   APP-PROJEKT S.A.   AI-native platform. ~100 services.
+2025 – 2026   AI Engineer · Tech Lead           Independent        AI products. Consulting.
+2022 – 2025   Senior AI Engineer                Coursedog (US)     Multi-agent systems. LangGraph.
+2022 – 2024   Senior Software Engineer          Avenga             Payment systems, European markets.
+2022 – 2023   Senior SE · Tech Lead             Avero / Sabre      GDS. Real-time flight APIs. Hard SLAs.
+2022          Backend Developer                 Euvic / A2B        Airport ops. SITA. EUROCONTROL.
+2021 – 2022   Tech Lead                         ALO2 Nord          Platform serving millions of EU customers.
+2018 – 2022   Full Stack Dev → Team Lead        Asroom / ITroom    Built the company. Led 10+ engineers.
 ```
 
----
-
-## Education
-
-**MBA — Strategic Management** · Warsaw Business School · 2024–2025
-
-**Computer Science & Informatics** · WSIiZ Rzeszów University
+**MBA, Strategic Management** — Warsaw Business School, 2024–2025
+**Computer Science & Informatics** — WSIiZ Rzeszów
 
 ---
 
 <div align="center">
 
-*Available for high-impact roles and consulting. Especially if the problem is hard.*
+*Nine years in. Still shipping.*
+
+**Let's build together.**
 
 </div>
