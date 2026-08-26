@@ -112,7 +112,10 @@ Domains          BIM/IFC · LiDAR & point clouds · GDS flight booking
 2018 – 2022   Full Stack Dev → Team Lead        Asroom / ITroom    Built the company. Led 10+ engineers.
 ```
 
+## Education
+
 **MBA, Strategic Management** — Warsaw Business School, 2024–2025
+
 **Computer Science & Informatics** — WSIiZ Rzeszów
 
 ---
