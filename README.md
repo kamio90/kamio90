@@ -52,28 +52,27 @@ A desktop app that autonomously generates full applications through Claude Code.
 
 ## Selected work
 
-**Private Banking AI Concierge** — Real-time AI avatar for a major Polish bank. Speaks and understands Polish, tracks conversational context, and triggers dynamic overlays mid-sentence: maps, flight offers, product cards, pricing. LiveKit + Anam AI + TypeScript. POC delivered in weeks.
+**Real-time AI avatar platform** — Conversational AI avatars that speak and understand Polish, track context across a conversation, and trigger dynamic overlays mid-sentence: maps, offers, product cards, pricing. LiveKit + Anam AI + TypeScript. Delivered for a client in weeks.
 
-**CHMURA+ — LiDAR classification for CPK** — Automatic point-cloud classification for Poland's Central Communication Port. 40+ classes across railway, road, buildings and BIM objects at **400,000 points/second**. Random Forest + PointNet, full IFC/BIM export. 🥈 2nd nationally, HackNation 2025.
+**CHMURA+ — LiDAR classification for CPK** — Automatic point-cloud classification for Poland's Central Communication Port, the country's largest infrastructure investment. **45+ classes** across ASPRS, railway, road and BIM objects at **400,000 points/second**. Random Forest + PointNet with active learning, full IFC export. Built in 24 hours; national finalist, HackNation PL 2025.
 
 **EnergoID** — Poland's first CSIRE-native Open Banking platform for the energy sector. Next.js, multi-service backend, Supabase, live energy-market data.
 
-**Airport operations backend** — Mission-critical systems for SITA's ADCS platform. EUROCONTROL integration, Type B messaging, ADIS protocol parsing. Rebuilt the API layer: **90% of critical bugs eliminated, 3× faster responses.** Airlines flew because it held.
+**Airport operations backend** — Mission-critical systems for ADB SAFEGATE's CORTEX family, running at airports including Frankfurt, Dubai and Schiphol. AODB flight information with EUROCONTROL integration, IATA Type B and AIDX messaging, real-time gate and carousel allocation. Earlier, at Euvic, I rewrote an aviation API system from scratch in two months: **95% of critical bugs eliminated, 3× faster responses.**
 
-**Custom WebGL game engine** — Built from scratch in TypeScript for my engineering thesis: rendering pipeline, Entity-Component-System architecture, physics, shader system. Because understanding what's underneath matters.
+**Custom WebGL game engine** — A personal project, built from scratch in TypeScript with zero dependencies: WebGL renderer, Entity-Component-System architecture, physics, shader system, game loop. My engineering thesis went the other way — non-Euclidean geometry in Unity, *creating the fifth dimension in computer games*. Because understanding what's underneath matters.
 
 ---
 
 ## Hackathons
 
-**3 first places. 9 podiums.**
+**3 first places.**
 
 | Year | Event | Result | Project |
 |:--|:--|:--|:--|
-| 2025 | HackNation — national | 🥈 2nd | CHMURA+ · LiDAR/BIM classification for CPK |
-| 2024 | HackYeah — Europe's largest, 1,000+ competitors | 🏆 **1st** | Circle Edge · data resilience for the Polish Development Fund |
+| 2025 | HackNation PL — national final | Finalist | CHMURA+ · LiDAR/BIM classification for CPK |
+| 2023 | HackYeah — Europe's largest | 🏆 **1st** | Circle Edge · data resilience for the Polish Development Fund |
 | 2023 | NASA Space Apps | Commended | ISS Lookout · orbital tracker |
-| 2023 | HackYeah | Finalist | Circle Edge API |
 | 2022 | Blockchain Hackathon | 🏆 **1st** | Bank Pipeline · cross-border payments |
 | 2022 | NASA Space Apps | Commended | ISS Space Tracker |
 | 2021 | Asseco Poland | 🥉 3rd | Bank Pipeline v1 |
@@ -93,8 +92,8 @@ Frontend         Next.js · React · React Native / Expo
 Data             PostgreSQL · MongoDB · Redis · ChromaDB · Supabase
 Infrastructure   Azure · AWS · Docker · Kubernetes · nginx
 Real-time        LiveKit · WebSockets · WebGL (custom renderer)
-Domains          BIM/IFC · LiDAR & point clouds · GDS flight booking
-                 EUROCONTROL · Open Banking · construction tech
+Domains          BIM/IFC · LiDAR & point clouds · aviation (EUROCONTROL, IATA)
+                 digital payments · Open Banking · construction tech
 ```
 
 ---
@@ -102,27 +101,30 @@ Domains          BIM/IFC · LiDAR & point clouds · GDS flight booking
 ## Career
 
 ```
-2026 – now    Head of AI & Digital Innovation   APP-PROJEKT S.A.   AI-native platform. ~100 services.
-2025 – 2026   AI Engineer · Tech Lead           Independent        AI products. Consulting.
-2022 – 2025   Senior AI Engineer                Coursedog (US)     Multi-agent systems. LangGraph.
-2022 – 2024   Senior Software Engineer          Avenga             Payment systems, European markets.
-2022 – 2023   Senior SE · Tech Lead             Avero / Sabre      GDS. Real-time flight APIs. Hard SLAs.
-2022          Backend Developer                 Euvic / A2B        Airport ops. SITA. EUROCONTROL.
-2021 – 2022   Tech Lead                         ALO2 Nord          Platform serving millions of EU customers.
-2018 – 2022   Full Stack Dev → Team Lead        Asroom / ITroom    Built the company. Led 10+ engineers.
+2026 – now     Head of AI & Digital Innovation    APP-PROJEKT S.A.       AI-native platform. ~100 services.
+2024 – 2026    Senior Software Engineer, AI       Coursedog (US EdTech)  Agentic AI. LangGraph. RAG on pgvector.
+2025           Senior Software Engineer           Devire                 Digital payments and checkout.
+2023 – 2025    Senior Technology Consultant       ALDI Nord IT Services  Retail platform, European markets.
+2022 – 2023    Senior Software Engineer           Avenga → ADB SAFEGATE  Airport ops. CORTEX. EUROCONTROL, IATA.
+2022           Backend Developer                  Euvic                  Aviation APIs, rebuilt in two months.
+2018 – 2022    Full Stack Developer → Team Lead   Asroom / ITRoom        Grew the team from 2 to 10+.
+2015 – 2018    Front-end Developer                Financeroom            Where it started.
 ```
+
+*Contract engagements — several ran in parallel.*
 
 ## Education
 
-**MBA, Strategic Management** — Warsaw Business School, 2024–2025
+**MBA, Strategic Management & Leadership** — Warsaw Business School, 2025
 
-**Computer Science & Informatics** — WSIiZ Rzeszów
+**BEng, Computer Science & Econometrics** — Krakow University of Economics, 2019–2023
+Thesis: *Creating the fifth dimension in computer games.*
 
 ---
 
 <div align="center">
 
-*Nine years in. Still shipping.*
+*Eleven years in. Still shipping.*
 
 **Let's build together.**
 
