@@ -6,7 +6,7 @@
 
 I turn business problems into software: AI products, operational platforms, developer tools and interactive experiences.
 
-[Complete project portfolio](portfolio/README.md) · [LinkedIn](https://www.linkedin.com/in/kamio90/)
+[Live portfolio](https://kamio90.github.io/kamio90/portfolio/) · [Complete project catalog](portfolio/README.md) · [LinkedIn](https://www.linkedin.com/in/kamio90/)
 
 </div>
 

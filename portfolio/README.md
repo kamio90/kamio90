@@ -2,6 +2,8 @@
 
 ![Product portfolio](assets/portfolio-cover.png)
 
+**[Explore the live portfolio →](https://kamio90.github.io/kamio90/portfolio/)**
+
 A complete collection of products, prototypes and technical experiments by Kamil Musiał-Czerski. Related repositories are presented as one product story.
 
 ## Flagship projects
