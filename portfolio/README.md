@@ -1,5 +1,7 @@
 # Product portfolio
 
+![Product portfolio](assets/portfolio-cover.png)
+
 A complete collection of products, prototypes and technical experiments by Kamil Musiał-Czerski. Related repositories are presented as one product story.
 
 ## Flagship projects
